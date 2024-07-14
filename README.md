@@ -45,6 +45,6 @@ clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
 mode:DIO, clock div:2
 load:0x40080000,len:188
 entry 0x40080098
-abc
+hello world
 
 ```
